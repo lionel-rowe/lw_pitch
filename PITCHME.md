@@ -12,21 +12,27 @@ _Working title!_
 
 ## Completely fictional persona #1
 
+@snap[south]
 ![Ellen](images/lw_ew.png)
+@snapend
 <!-- 15s -->
 
 +++
 
 ## Completely fictional persona #2
 
+@snap[south]
 ![Samir](images/lw_sb.png)
+@snapend
 <!-- 15s -->
 
 +++
 
 ## Completely fictional persona #3
 
+@snap[south]
 ![Lionel](images/lw_lr.png)
+@snapend
 <!-- 15s -->
 
 ---
