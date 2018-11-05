@@ -11,7 +11,7 @@ _Working title!_
 +++
 
 @snap[north]
-## Completely fictional persona #1
+Completely fictional persona #1
 @snapend
 
 @snap[south]
@@ -22,7 +22,7 @@ _Working title!_
 +++
 
 @snap[north]
-## Completely fictional persona #2
+Completely fictional persona #2
 @snapend
 
 @snap[south]
@@ -33,7 +33,7 @@ _Working title!_
 +++
 
 @snap[north]
-## Completely fictional persona #3
+Completely fictional persona #3
 @snapend
 
 @snap[south]
