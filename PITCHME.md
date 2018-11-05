@@ -10,7 +10,9 @@ _Working title!_
 
 +++
 
+@snap[north]
 ## Completely fictional persona #1
+@snapend
 
 @snap[south]
 ![Ellen](images/lw_ew.png)
@@ -19,7 +21,9 @@ _Working title!_
 
 +++
 
+@snap[north]
 ## Completely fictional persona #2
+@snapend
 
 @snap[south]
 ![Samir](images/lw_sb.png)
@@ -28,7 +32,9 @@ _Working title!_
 
 +++
 
+@snap[north]
 ## Completely fictional persona #3
+@snapend
 
 @snap[south]
 ![Lionel](images/lw_lr.png)
